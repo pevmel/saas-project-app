@@ -31,6 +31,8 @@ gem 'jbuilder', '~> 2.5'
 gem 'jquery-rails'
 gem 'twitter-bootstrap-rails'
 gem 'devise-bootstrap-views'
+gem 'bootstrap-datepicker-rails'
+
 gem 'therubyracer'
 gem 'sendgrid-ruby'
 # Use Redis adapter to run Action Cable in production
