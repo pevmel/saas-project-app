@@ -16,6 +16,7 @@ gem 'font-awesome-sass', '~> 5.0.9'
 gem 'devise'
 gem 'milia'
 gem 'aws-sdk'
+gem 'stripe'
 # Use Puma as the app server
 gem 'puma', '~> 3.7'
 # Use SCSS for stylesheets
